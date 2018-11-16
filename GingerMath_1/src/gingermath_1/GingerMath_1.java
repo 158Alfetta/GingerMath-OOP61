@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package testingui;
+package gingermath_1;
 
 /**
  *
  * @author Corvette
  */
-public class TestingUI {
+public class GingerMath_1 {
 
     /**
      * @param args the command line arguments
